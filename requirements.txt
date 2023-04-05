@@ -1,0 +1,6 @@
+langchain
+openai
+unstructured[local-inference]
+unstructured
+pinecone-client
+python-dotenv
